@@ -10,4 +10,6 @@ To run This Program Just clone my repository and build it using Netbeans IDE.<br
 Click On Run to See it!<br />
 By :
 <br />
-Kuldeep Raj Tiwari
+Kuldeep Raj Tiwari<br />
+MCA<br />
+Jawaharlal Nehru University, New Delhi
